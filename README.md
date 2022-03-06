@@ -6,7 +6,7 @@ The profiler measured normal requests, attack requests that read `/etc/passwd`, 
 
 Then, from the comparison of the measurement results, it was confirmed that the profiler can find traces of the attack.
 
-## read `/etc/passwd`
+## normal request
 
 ### request
 
