@@ -225,3 +225,4 @@ typings/
 .serverless
 
 venv
+__pycache__
